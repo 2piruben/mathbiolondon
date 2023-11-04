@@ -28,7 +28,7 @@ twitter_username: mabilon
 github_username:  mabilon
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 
